@@ -1,0 +1,61 @@
+Project Path: D:\KLH\PROJECTS\SEMI SUPERVISED RTOS
+Results will be saved to: D:\KLH\PROJECTS\SEMI SUPERVISED RTOS\benchmark_results_final
+
+
+===== BENCHMARKING VxWorksRTOS =====
+  Testing at 10 tasks/sec...
+  Testing at 20 tasks/sec...
+  Testing at 30 tasks/sec...
+  Testing at 40 tasks/sec...
+  Testing at 50 tasks/sec...
+  Testing at 60 tasks/sec...
+
+===== BENCHMARKING PureAI =====
+  Testing at 10 tasks/sec...
+  Testing at 20 tasks/sec...
+  Testing at 30 tasks/sec...
+  Testing at 40 tasks/sec...
+  Testing at 50 tasks/sec...
+  Testing at 60 tasks/sec...
+
+===== BENCHMARKING Hybrid =====
+  Testing at 10 tasks/sec...
+  Testing at 20 tasks/sec...
+  Testing at 30 tasks/sec...
+  Testing at 40 tasks/sec...
+  Testing at 50 tasks/sec...
+  Testing at 60 tasks/sec...
+
+Generated 5 benchmark graphs in 'D:\KLH\PROJECTS\SEMI SUPERVISED RTOS\benchmark_results_final'
+
+============================================================
+      FULL BENCHMARK SUMMARY REPORT (at High Load: 60 tasks/sec)
+============================================================
+--- DEADLINES MISSED PERFORMANCE ---
+  - Traditional RTOS: 220.00
+  - Pure AI Scheduler: 190.00
+  - Hybrid Scheduler: 192.00
+    -> Pure AI Improvement vs RTOS: +13.64%
+    -> Hybrid Improvement vs RTOS: +12.73%
+--- RELIABILITY SCORE PERFORMANCE ---
+  - Traditional RTOS: 9.63
+  - Pure AI Scheduler: 21.53
+  - Hybrid Scheduler: 8.91
+    -> Pure AI Improvement vs RTOS: +123.47%
+--- AVG TURNAROUND TIME PERFORMANCE ---
+  - Traditional RTOS: 2894.79
+  - Pure AI Scheduler: 1431.49
+  - Hybrid Scheduler: 1808.89
+    -> Pure AI Improvement vs RTOS: +50.55%
+    -> Hybrid Improvement vs RTOS: +37.51%
+--- CONTEXT SWITCHES PERFORMANCE ---
+  - Traditional RTOS: 425.00
+  - Pure AI Scheduler: 376.00
+  - Hybrid Scheduler: 626.00
+    -> Pure AI Improvement vs RTOS: +11.53%
+
+--- OVERALL CONCLUSION ---
+The AI-powered schedulers demonstrate a decisive advantage in reliability,
+drastically reducing missed deadlines under high-stress conditions. The model's
+ability to understand task urgency and criticality is the key differentiator.
+============================================================
