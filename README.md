@@ -143,4 +143,4 @@ MIT License — free to use, modify, and share with attribution.
 ---
 
 ## 🙋 Author
-Built solo by [Your Name], <2nd year undergrad, as an extended assignment experiment. 
+Built solo by SilverShadowHeart, 2nd year undergrad, as an extended assignment experiment. 
