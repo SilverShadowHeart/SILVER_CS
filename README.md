@@ -90,7 +90,7 @@ Multiple load levels (tasks/sec) are tested. Metrics are logged, plotted, and su
 ---
 
 ## 📦 Project Structure
-
+```
 .
 ├── main.py # Initial model & clustering exploration
 ├── silver_cs_trainer.py # Semi-supervised curriculum training pipeline
@@ -98,9 +98,7 @@ Multiple load levels (tasks/sec) are tested. Metrics are logged, plotted, and su
 ├── benchmark_results_final/ # Output graphs & logs
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
+```
 
 ---
 
