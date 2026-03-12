@@ -1,4 +1,4 @@
-# SILVER_CS: AI-Powered Real-Time Task Scheduler (Simulation)
+AI-Powered Real-Time Task Scheduler (Simulation)
 
 SILVER_CS is a **simulation-based** AI-powered real-time task scheduler designed for **RTOS-like environments**.  
 It uses **synthetic workloads** to model realistic task dynamics and applies a **TinyTransformer** model trained via **semi-supervised learning** and **curriculum training** to make intelligent scheduling decisions.
